@@ -1,6 +1,6 @@
 
 body {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Gideon Roman', serif;
     margin: 0;
     padding: 0;
 }
@@ -54,9 +54,20 @@ body{
     gap: 30px;
 }
 .home h{
-    font-size: 100px;
+    font-size: 150px;
     
 }
 .main{
     padding-right: 20%;
+}
+
+
+
+.img-1{
+    border-radius: 8px;
+    cursor: pointer;
+    display: flex;
+    justify-content: cneter;
+    align-items: center;
+    background-image: url(https://pixabay.com/photos/s%C3%BCtterlin-handwriting-typography-1362879/);
 }
