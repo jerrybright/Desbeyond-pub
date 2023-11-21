@@ -1,8 +1,7 @@
 
 body {
     font-family: 'Gideon Roman', serif;
-    margin: 0;
-    padding: 0;
+
 }
 
 .navbar {
@@ -32,7 +31,10 @@ body {
 
 body{
     background-color: white;
-    padding : 0 15%;
+    border : 15%;
+    align-items: center;
+    justify-content: center;
+    
     
 }
 
@@ -41,12 +43,12 @@ body{
     width: 400px;
     border-radius: 100%;
     position: sticky;
-   border-left: 50px;
+   
     
 
 }
 .home{
-    padding: 15% 0 0 0;
+    padding: 15% 0 0 15%;
     width: 100%;
     height: 200vh;
     display: flex;
@@ -114,13 +116,69 @@ body{
 }
 
 .customcontent1{
-    padding: 5%;
+    padding: 15%;
 }
 
 .customcontent2{
     padding: 5%;
 }
 
+.customimage2 img{
+    border-radius: 15px;
+}
+
 .lastone{
     text-align: center;
 }
+.moreinfo{
+    margin-top: 20%;
+    margin-bottom: 20%;
+    margin-left: 12%;
+}
+
+.moreinfo h1{
+    font-size: 60px;
+    line-height: 2px;
+    position: sticky;
+    
+
+}
+
+
+
+.button-1{
+
+    background-color:#1111b8;
+    color: #fff;
+    margin: 10px 20px 10px 0px;
+    border:none; 
+    border-radius:10px; 
+    padding:15px;
+    
+    min-height:30px; 
+    min-width: 120px;
+}
+
+.button-2{
+    
+    top:50%;
+    background-color:rgb(184, 126, 17);
+    color: #fff;
+    margin: 10px 20px 10px 0;
+    border:none; 
+    border-radius:10px; 
+    padding:15px;
+    min-height:30px; 
+    min-width: 120px;
+}
+
+.impressive-part img{
+    height: 550px;
+    width: 550px;
+    border-radius: 17%;
+    padding: 0 20% 0 20%;
+    
+}
+
+
+
