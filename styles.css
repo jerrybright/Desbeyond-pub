@@ -71,6 +71,7 @@ body{
 
 .services-list{
     padding-top: 30%;
+    padding-left: 0;
     display: flex;
     justify-content: center;
     align-items: center;
