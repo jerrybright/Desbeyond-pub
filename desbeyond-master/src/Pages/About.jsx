@@ -22,7 +22,7 @@ const About = () => {
                     has been going for years.</p>
                 </p>
                 <div>
-                    <img src="https://via.placeholder.com/350" alt="image" />
+                    <img src="../src/assets/about-img.jpg" alt="image" />
                 </div>
             </div>
             <div class="blended-div"></div>

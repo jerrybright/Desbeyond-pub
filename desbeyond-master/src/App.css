@@ -338,7 +338,7 @@ a{
   position: relative;
   display: flex;
   flex-direction: column;
-  overflow-x: hidden;
+  
 }
 
 .abouthead{
@@ -364,7 +364,7 @@ a{
   position: absolute;
 
   top: 27rem; /* bottom space */
-  left:550px;
+  left:500px;
 }
 .blended-div{
   height:650px;
@@ -462,6 +462,10 @@ a{
   text-align: justify;
   margin: 20px 20px 20px 0;
   font-size: 1.2rem;
+}
+
+.mainservices div{
+  position:relative;
 }
 
 

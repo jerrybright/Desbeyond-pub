@@ -13,7 +13,7 @@ const Home = () => {
 
             <div className="content">
                 <div className="works">
-                    <img src="https://via.placeholder.com/300" alt="works"/>
+                    <img src="../src/assets/home-1.png" alt="works"/>
                     <div>
                        <h4>Book Design</h4> 
                        <p>Get lost in the compelling world of endless possibilities.</p>
